@@ -1,17 +1,17 @@
 ## CHANGE 更改此处为你的附属名称
-name: SlimefunAddon
+name: SpawnEggs
 
 ## CHANGE 更改此处为你的名称
-author: CHANGEME
+author: Luoyangan
 
 ## CHANGE 这是对你插件的介绍
-description: A generic Slimefun4-Addon
+description: 可以制作刷怪蛋
 
 ## CHANGE 指向你的 JavaPlugin 主类
-main: me.CHANGEME.slimefunaddon.ExampleAddon
+main: me.Luoyangan.spawneggs.SpawnEggs
 
 ## 你可以更改为你的项目仓库地址，或者你的个人网站。你也可以移除此项目。
-website: https://github.com/Slimefun/Addon-Template
+website: https://github.com/Luoyangan/SpawnEggs
 
 ## 该值将在构建时被自动替换为pom.xml中定义的版本。
 ## 不要更改此项目。
@@ -23,3 +23,4 @@ api-version: 1.14
 ## 指定 Slimefun 作为依赖项，必须
 depend:
 - Slimefun
+- SoulJars
